@@ -2,6 +2,8 @@
     <content><![CDATA[
 --TEST--
 $1
+--INI--
+error_reporting=E_ALL
 --CREDITS--
 $2 Name <email [at] gmail [dot] com>
 --SKIPIF--
