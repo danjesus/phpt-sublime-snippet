@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+--TEST--
+$1
+--CREDITS--
+$2
+--SKIPIF--
+$3
+--FILE--
+<?php
+    $4
+    ?>
+--EXPECT--
+$4
+]]></content>
+    <tabTrigger>phpt</tabTrigger>
+    <description>Bootstrap for phpt tests</description>
+</snippet>
