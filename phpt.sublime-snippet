@@ -3,7 +3,7 @@
 --TEST--
 $1
 --CREDITS--
-$2
+$2 Name <email [at] gmail [dot] com>
 --SKIPIF--
 $3
 --FILE--
