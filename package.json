@@ -1,0 +1,18 @@
+{
+  "name": "phpt-sublime-snippet",
+  "version": "0.0.2",
+  "description": "Simple Snippet for PHPT bootstrap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danjesus/phpt-sublime-snippet.git"
+  },
+  "keywords": [
+    "phpt"
+  ],
+  "author": "Dan Jesus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danjesus/phpt-sublime-snippet/issues"
+  },
+  "homepage": "https://github.com/danjesus/phpt-sublime-snippet"
+}
